@@ -27,7 +27,7 @@ Mockup-Nómada es un sitio web estático de presentación para Nómada Lounge (i
 ## 🧰 Tecnologías
 - Frontend: Angular, TypeScript, SCSS
 - Backend: Java, Spring Boot
-- Bases de datos: MariaDB, MySQL
+- Base de datos: MariaDB, MySQL
 - DevOps: Docker, Git, GitHub
 - Otros: APIs REST, Arquitectura en capas
 
