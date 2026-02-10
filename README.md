@@ -1,6 +1,6 @@
 # 👋 Hola, soy Rares
 
-🎓 Estudiante de 2º DAW 
+🎓 Estudiante de 2º DAW  
 ⚙️ Angular · Spring Boot · Docker · MariaDB
 
 ---
@@ -29,7 +29,7 @@
 - Backend: Java, Spring Boot
 - Base de datos: MariaDB, MySQL
 - DevOps: Docker, Git, GitHub
-- Otros: APIs REST, Arquitectura en capas
+- Otros: APIs REST, Arquitectura por capas
 
 ## 🎯 Actualmente
 - Estudiante de 2º de DAW
