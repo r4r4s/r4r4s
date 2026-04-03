@@ -7,6 +7,11 @@
 
 ## 🚀 Proyectos destacados  
 
+### 📱 ClicTec
+- ClicTec es una plataforma que te ayuda a encontrar y comparar móviles de forma rápida y precisa para elegir el mejor sin complicaciones. 
+- **Stack:** Angular · Spring Boot · Docker   
+- 🌐 URL: https://clictec.es/
+
 ### 🏠 Nibiru Home
 - Aplicación de e-commerce full stack con separación cliente / administración.    
 - **Stack:** Angular · Spring Boot · Docker   
