@@ -12,6 +12,11 @@
 - **Stack:** Angular · Spring Boot · Docker   
 - 🌐 URL: https://clictec.es/
 
+### 🎨 Nibiru Paint
+- Nibiru Paint es una plataforma con dibujos para colorear e imprimir gratis, pensada para encontrar ilustraciones de forma rápida y visual.
+- **Stack:** Angular · Cloudflare Workers · Docker
+- 🌐 URL: https://nibirupaint.com/
+
 ### 🏠 Nibiru Home
 - Aplicación de e-commerce full stack con separación cliente / administración.    
 - **Stack:** Angular · Spring Boot · Docker   
