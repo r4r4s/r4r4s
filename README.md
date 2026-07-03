@@ -1,6 +1,6 @@
 # 👋 Hola, soy Rares
 
-🎓 Estudiante de 2º DAW  
+💻 Desarrollador Web  
 ⚙️ Angular · Spring Boot · Docker · MariaDB
 
 ---
@@ -29,22 +29,23 @@
 - 🌐 URL: https://fahsiloungexirivella0.web.app/  
 
 ### 🍻 Mockup Nómada
-- Mockup-Nómada es un sitio web estático de presentación para Nómada Lounge (inicio, carta, reservas y delivery), desarrollado con HTML, CSS, JavaScript y animaciones GSAP.  
+- Mockup-Nómada es un sitio web estático de presentación para Nómada Lounge, con secciones de inicio, carta, reservas y delivery.
 - **Stack:** HTML · CSS · JavaScript · GSAP  
 - 🔗 Repo: https://github.com/r4r4s/Mockup-Nomada
 
 ---
+
 ## 🧰 Tecnologías
 - Frontend: Angular, TypeScript, SCSS
 - Backend: Java, Spring Boot
 - Base de datos: MariaDB, MySQL
 - DevOps: Docker, Git, GitHub
-- Otros: APIs REST, Arquitectura por capas
+- Otros: APIs REST, arquitectura por capas
 
 ## 🎯 Actualmente
-- Estudiante de 2º de DAW
-- Desarrollo de proyectos full stack con Angular y Spring Boot
-- Mejora continua en arquitectura, testing y despliegue
+- Titulado en Desarrollo de Aplicaciones Web
+- Desarrollo proyectos full stack con Angular y Spring Boot
+- Sigo mejorando en arquitectura, testing, despliegue y buenas prácticas de desarrollo
 
 ## 📫 Contacto
 - 📧 Email: rngheru@gmail.com
