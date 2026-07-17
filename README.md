@@ -17,21 +17,12 @@
 - **Stack:** Angular · Cloudflare Workers · Docker
 - 🌐 URL: https://nibirupaint.com/
 
-### 🏠 Nibiru Home
-- Aplicación de e-commerce full stack con separación cliente / administración.    
-- **Stack:** Angular · Spring Boot · Docker   
-- 🔗 Repo: https://github.com/orgs/Nibiru-Home/repositories
-
 ### 🍸 Fahsi Lounge
 - Web desarrollada en Angular para la presentación de Fahsi Lounge, desplegada en Firebase Hosting.  
 - **Stack:** Angular · TypeScript · SCSS · Firebase Hosting  
 - 🔗 Repo: https://github.com/r4r4s/fahsi_lounge  
 - 🌐 URL: https://fahsiloungexirivella0.web.app/  
 
-### 🍻 Mockup Nómada
-- Mockup-Nómada es un sitio web estático de presentación para Nómada Lounge, con secciones de inicio, carta, reservas y delivery.
-- **Stack:** HTML · CSS · JavaScript · GSAP  
-- 🔗 Repo: https://github.com/r4r4s/Mockup-Nomada
 
 ---
 
