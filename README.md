@@ -17,6 +17,11 @@
 - **Stack:** Angular · Cloudflare Workers · Docker
 - 🌐 URL: https://nibirupaint.com/
 
+### 🎉 TuriaFest
+- <!-- TODO: descripción de TuriaFest -->
+- **Stack:** Astro <!-- TODO: completar stack -->
+- 🌐 URL: <!-- TODO: añadir URL/repo -->
+
 ### 🍸 Fahsi Lounge
 - Web desarrollada en Angular para la presentación de Fahsi Lounge, desplegada en Firebase Hosting.  
 - **Stack:** Angular · TypeScript · SCSS · Firebase Hosting  
@@ -27,7 +32,7 @@
 ---
 
 ## 🧰 Tecnologías
-- Frontend: Angular, TypeScript, SCSS
+- Frontend: Angular, Astro, TypeScript, SCSS
 - Backend: Java, Spring Boot
 - Base de datos: MariaDB, MySQL
 - DevOps: Docker, Git, GitHub
