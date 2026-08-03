@@ -1,7 +1,7 @@
 # 👋 Hola, soy Rares
 
 💻 Desarrollador Web  
-⚙️ Angular · Spring Boot · Docker · MariaDB
+⚙️ Angular · Astro · Spring Boot · Docker · MariaDB
 
 ---
 
